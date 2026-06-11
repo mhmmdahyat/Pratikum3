@@ -4,7 +4,7 @@
 
 | Nama | NIM | Kelas | Mata Kuliah |
 |--------|--------|--------|--------|
-| Muhammad Ahyat | C0303240XX | TI4D | Pemrograman Perangkat Bergerak |
+| Muhammad Ahyat | C030324130 | TI4D | Pemrograman Perangkat Bergerak |
 
 ## 📄 Pernyataan
 
